@@ -1,0 +1,16 @@
+bbbbbbbbbbbbbbbbbbbb
+b p                b
+bx      p          b
+bbbbbb    bb  bbbbbb
+b    b     b  b   pb
+b    b     b  b    b
+by   b     b  b    b
+b                  b
+b                  b
+bp                xb
+bbbbbbbbbb      bbbb
+b                  b
+bx                 b
+bbbb               b
+b                 pb
+bbbbbbbb    bbbbbbbb
